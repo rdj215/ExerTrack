@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ExerTrack/static/js/main.f5f647a3.chunk.js",
+    "main.js.map": "/ExerTrack/static/js/main.f5f647a3.chunk.js.map",
+    "runtime-main.js": "/ExerTrack/static/js/runtime-main.dae3a494.js",
+    "runtime-main.js.map": "/ExerTrack/static/js/runtime-main.dae3a494.js.map",
+    "static/css/2.23be29d4.chunk.css": "/ExerTrack/static/css/2.23be29d4.chunk.css",
+    "static/js/2.df1516c5.chunk.js": "/ExerTrack/static/js/2.df1516c5.chunk.js",
+    "static/js/2.df1516c5.chunk.js.map": "/ExerTrack/static/js/2.df1516c5.chunk.js.map",
+    "index.html": "/ExerTrack/index.html",
+    "precache-manifest.c6d813bee45a92ebd345106eb0743c0f.js": "/ExerTrack/precache-manifest.c6d813bee45a92ebd345106eb0743c0f.js",
+    "service-worker.js": "/ExerTrack/service-worker.js",
+    "static/css/2.23be29d4.chunk.css.map": "/ExerTrack/static/css/2.23be29d4.chunk.css.map",
+    "static/js/2.df1516c5.chunk.js.LICENSE.txt": "/ExerTrack/static/js/2.df1516c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae3a494.js",
+    "static/css/2.23be29d4.chunk.css",
+    "static/js/2.df1516c5.chunk.js",
+    "static/js/main.f5f647a3.chunk.js"
+  ]
+}
